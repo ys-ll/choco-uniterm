@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>uniTerm</id>
+    <version>1.4.1</version>
+    <title>uniTerm</title>
+    <authors>uniTerm</authors>
+    <projectUrl>https://uniterm.net</projectUrl>
+    <iconUrl>https://github.com/ys-ll/uniterm/raw/main/build/appicon.png</iconUrl>
+    <copyright>uniTerm</copyright>
+    <description>Lightweight all-in-one terminal emulator with built-in AI Agent</description>
+    <tags>terminal ssh rdp sftp serial emulator cross-platform</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
