@@ -9,7 +9,7 @@
     <projectSourceUrl>https://github.com/ys-ll/uniterm</projectSourceUrl>
     <iconUrl>https://github.com/ys-ll/uniterm/raw/main/build/appicon.png</iconUrl>
     <copyright>ys-ll</copyright>
-    <licenseUrl>https://uniterm.net/license</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/ys-ll/uniterm/main/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>uniTerm is a lightweight, cross-platform terminal emulator with built-in AI Agent. It supports multiple connection protocols including SSH, RDP, SFTP, serial connections, and integrates a local AI Agent for intelligent command assistance. All-in-one solution for developers and system administrators.</description>
     <tags>terminal ssh rdp sftp serial emulator cross-platform</tags>
